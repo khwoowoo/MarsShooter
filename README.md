@@ -9,7 +9,6 @@
 ![슬라이드4](https://github.com/khwoowoo/web_shooting_game/assets/23547185/8165a019-e4b1-413b-9815-a18ca15c71b9)
 ![슬라이드5](https://github.com/khwoowoo/web_shooting_game/assets/23547185/977063ab-8b39-4dae-9eff-103aab64445a)
 ![슬라이드6](https://github.com/khwoowoo/web_shooting_game/assets/23547185/2547bfd1-d496-455f-b55a-2dd84d93aaa6)
-![슬라이드7](https://github.com/khwoowoo/web_shooting_game/assets/23547185/e3ec0f0d-df55-4368-9b4d-2caff975f472)
 
 
 
