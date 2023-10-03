@@ -1,6 +1,10 @@
 ## 🚀 바닐라 자바스크립트를 이용한 웹 슈팅 게임 
- - 언어: JavaScript, HTML, CSS
+ - 언어: HTML, CSS, JavaScript (라이브러리, 엔진 x)
  - 장르: 게임 - 슈팅게임
+
+![ezgif com-video-to-gif (1)](https://github.com/khwoowoo/web_shooting_game/assets/23547185/2b2ff03e-ac56-42f7-bf02-afab503905b8)
+![ezgif com-video-to-gif (2)](https://github.com/khwoowoo/web_shooting_game/assets/23547185/d9756bcd-ebb0-4c0a-a0bb-85004eb40056)
+
 
 ## 🚀 소개
 ![슬라이드1](https://github.com/khwoowoo/web_shooting_game/assets/23547185/90d7fb90-71dc-4930-833c-67c05a82a3a8)
