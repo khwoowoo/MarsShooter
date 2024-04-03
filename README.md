@@ -19,8 +19,12 @@
 
 
 ## 🚀 시연 영상
-https://user-images.githubusercontent.com/23547185/174946892-f4936fce-9cf8-4d8a-9e39-2c23f6ed065b.mp4
+
+
+https://github.com/khwoowoo/MarsShooter/assets/23547185/044c4db8-92f3-4325-9705-5955138c1558
+
+
 
 
 ## 🚀 유튜브 링크
-https://youtu.be/f6akhLZ6YZ0
+[클릭!](https://youtu.be/6D5qoqZF1-A)
