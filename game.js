@@ -6,12 +6,6 @@ const WindowSizeX = canvas.width;
 const WindowSizeY = canvas.height;
 
 let deltatime = 0.378;
-// const imageElem = new Image();
-
-// imageElem.src = "resource/player/_player (3).png";
-// imageElem.onload = function draw(){
-//     context.drawImage(imageElem, 1, 1, imageElem.width / 2, imageElem.height / 2);//이미지1
-// }
 
 
 class Obj{
@@ -1237,7 +1231,7 @@ class Stage1Scene extends Scene{
         this.player1 = new Player(this, "resource/player/_player (3).png", WindowSizeX / 2, WindowSizeY - 100);
         this.score = new Score(this, this.player1, 800, 50);
 
-        this.enemyList.push(new Enemy(this, this.getRandomInt(100, WindowSizeX - 100), 100, this.getRandomInt(1, 4 + 1 )));
+        //this.enemyList.push(new Enemy(this, this.getRandomInt(100, WindowSizeX - 100), 100, this.getRandomInt(1, 4 + 1 )));
         //this.enemyList.push(new MidBoss(this, 400, -100));
 
         this.player1.bottomBtn = true;
@@ -1433,13 +1427,3 @@ function main(){
 }
 
 main();
-
-
-
-// imageElem.addEventListener("load", () => {
-//     context.clearRect(0, 0, canvas.offsetWidth, canvas.offsetHeight);
-
-//     context.drawImage(imageElem, 1, 1);//이미지1
-// });
-
-
